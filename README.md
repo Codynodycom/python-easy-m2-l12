@@ -2,7 +2,8 @@
 
 ## Содержание
 
-[Example](theory/_.md)
+[Цикл for](theory/1.0-loop.md)
+[Примеры применения цикла](theory/1.1-examples.md)
 
 <hr>
 
